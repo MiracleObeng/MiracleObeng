@@ -1,0 +1,56 @@
+---
+title: "Chicken in Apple Project"
+author: "Zoe Heuschkel, Lars Caspersen and Miracle Obeng"
+date: "14/07/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Introduction
+Chicken in apple plantation is an Agroforestry practice. This system is also know as the Silvopoutry system.
+
+## Benefits of the System
+Chicken welfare (reduced stress, reduce pecking),
+
+Valuable revenue stream (commercial fruit),
+
+More tree cover result fewer water birds coming to the farm and hence lower the rate of transmit avian influenza virus transmission,
+
+May reduce scab, weeding and pest insects.
+
+## Challenges of the Chicken apple plantation system
+Gradual decrease of chicken benefits with distance to coop,
+
+Few studies on disease and pest reduction resulting in (and unclear observations) estimations of inputs,
+
+Reducing occurrence of insect, disease and pest does not linearly translate to decrease in controlling these.
+
+# Stakeholders
+Our stakeholders are the people who will directly or indirectly benefits form the decision model. They Includes;
+Farmers (apple and chicken),
+
+Retailers,
+
+Consumers,
+
+Non-governmental organizations (NGOs).
+
+## Decision Maker
+Our key decision makers are:
+Established, conventional commercial apple farmer in NW Europe
+
+### Desicion criterium
+Farmers are key decision makers because, in our model, we calculated the Net Present Value (NPV). This is a variable which is more important to the producers (farmer).
+
+# Conceptual and Coded Model
+# Model Outcome Outcome
+# Discusion
+
+
+
+
+
+
